@@ -6,6 +6,7 @@
 
 <body> 
 	<h1>PHP Test</h1>
+		<p><b>a Change maded by ivanel</b></p>
 		<p><b>An Example of new line added by ivanel</b></p>
 		<p><b>An Example of PHP in Action</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
